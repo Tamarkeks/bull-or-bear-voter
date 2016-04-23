@@ -1,0 +1,1 @@
+An android application that hosts a voting system which people can vote for their preferences for stock market.
